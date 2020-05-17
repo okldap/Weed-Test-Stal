@@ -1,0 +1,4 @@
+image:
+  - Ubuntu
+build_script:
+  - bash < build.sh
